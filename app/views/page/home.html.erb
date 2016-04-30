@@ -1,2 +1,27 @@
-<h1>Page#home</h1>
-<p>Find me in app/views/page/home.html.erb</p>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/index1.css">
+	<title>TBFBapp</title>
+
+</head>
+
+<body>
+	<div class="main">
+		<div class="content">
+			<div class="TBlogo">
+
+			</div>
+			<div class="textbox">
+				<h2>あなたにぴったりな<br>旅先を診断してみよう！</h2>
+
+			</div>
+			<div class="pushbutton">
+        <p class="pushtext"><%= link_to "診断スタート",page_result_path,:style => "color: white;"%></p>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
