@@ -1,0 +1,148 @@
+/* line 4, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* line 8, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.main {
+  width: 100%;
+}
+
+/* line 11, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.content {
+  width: 700px;
+  height: 600px;
+  background-color: #fcfdfd;
+  margin: 0 auto;
+}
+
+/* line 17, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.TBlogo {
+  width: 500px;
+  height: 300px;
+  background-image: url(TBLogo/TB500x300.png);
+  margin: 0 auto;
+}
+
+/* line 23, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.textbox {
+  text-align: center;
+  margin-top: 40px;
+}
+
+/* line 27, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton {
+  width: 288px;
+  height: 88px;
+  background-color: #F4B04D;
+  border-radius: 20px;
+  margin: 50px auto;
+  text-align: center;
+  font-size: 30px;
+  line-height: 88px;
+  color: white;
+  box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+}
+
+/* line 41, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton2 {
+  width: 288px;
+  height: 88px;
+  background-color: #F4B04D;
+  border-radius: 20px;
+  margin: 50px 30px;
+  text-align: center;
+  font-size: 30px;
+  line-height: 88px;
+  color: white;
+  box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  float: left;
+}
+
+/* line 56, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton3 {
+  width: 288px;
+  height: 88px;
+  background-color: #F4B04D;
+  border-radius: 20px;
+  margin: 50px 30px;
+  text-align: center;
+  font-size: 30px;
+  line-height: 88px;
+  color: white;
+  box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  float: left;
+}
+
+/* line 72, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton:hover {
+  background-color: white;
+  color: #F4B04D;
+}
+
+/* line 76, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton2:hover {
+  background-color: white;
+  color: #F4B04D;
+}
+
+/* line 80, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushbutton3:hover {
+  background-color: white;
+  color: #F4B04D;
+}
+
+/* line 84, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 87, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext:hover {
+  color: #F4B04D;
+}
+
+/* line 90, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext {
+  color: white;
+}
+
+/* line 93, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext2:hover {
+  color: #F4B04D;
+}
+
+/* line 96, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext2 {
+  color: white;
+}
+
+/* line 99, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext3:hover {
+  color: #F4B04D;
+}
+
+/* line 102, /Users/yuhi_dev/fb_sample/app/assets/stylesheets/page.scss */
+.pushtext3 {
+  color: white;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
