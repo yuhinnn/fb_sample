@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   root 'page#home'
 
   get 'page/result'
-  post '/' => 'page#home'
+  
 
   end
 
